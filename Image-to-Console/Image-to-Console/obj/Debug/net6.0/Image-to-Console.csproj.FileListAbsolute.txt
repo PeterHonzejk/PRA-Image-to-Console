@@ -1,0 +1,15 @@
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\bin\Debug\net6.0\Image-to-Console.exe
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\bin\Debug\net6.0\Image-to-Console.deps.json
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\bin\Debug\net6.0\Image-to-Console.runtimeconfig.json
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\bin\Debug\net6.0\Image-to-Console.dll
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\bin\Debug\net6.0\Image-to-Console.pdb
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.csproj.AssemblyReference.cache
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.AssemblyInfoInputs.cache
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.AssemblyInfo.cs
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.dll
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\refint\Image-to-Console.dll
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.pdb
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\Image-to-Console.genruntimeconfig.cache
+C:\Users\Praktikant\Code\PRA-Image-to-Console\Image-to-Console\Image-to-Console\obj\Debug\net6.0\ref\Image-to-Console.dll
