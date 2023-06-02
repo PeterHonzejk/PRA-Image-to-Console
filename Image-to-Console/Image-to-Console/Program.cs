@@ -83,6 +83,7 @@ namespace Image_to_Console
             }
         }
 
+        // Funkce pro čtení souboru s obrázkem
         static byte[] ReadImageFile(string filePath)
         {
             byte[] fileBytes;
@@ -102,6 +103,7 @@ namespace Image_to_Console
             return fileBytes;
         }
 
+        // Funkce pro výpočet poměru změny velikosti obrázku
         static double CalculateResizeRatio(int imageWidth, int imageHeight, int consoleWidth, int consoleHeight)
         {
             double widthRatio = (double)imageWidth / consoleWidth;
@@ -110,6 +112,7 @@ namespace Image_to_Console
             return Math.Max(widthRatio, heightRatio);
         }
 
+        // Funkce pro zmenšení obrázku
         static byte[] ResizeImage(byte[] fileBytes, int imageOffset, int imageWidth, int imageHeight, int resizedWidth, int resizedHeight, double resizeRatio)
         {
             byte[] resizedImageBuffer = new byte[resizedWidth * resizedHeight];
@@ -130,6 +133,7 @@ namespace Image_to_Console
             return resizedImageBuffer;
         }
 
+        // Funkce pro vykreslení zmenšeného obrázku do konzole
         static void RenderImage(byte[] imageBuffer, int imageWidth, int imageHeight)
         {
             int consoleWidth = Console.WindowWidth;
