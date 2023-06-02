@@ -68,6 +68,18 @@ namespace Image_to_Console
                 {
                     exitProgram = true;
                 }
+                else if (choice?.ToLower() == "n")
+                {
+                    exitProgram = false;
+                }
+
+                while (choice?.ToLower() != "y" && choice?.ToLower() != "n")
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("\nNeplatný vstup. Prosím zadejte 'y' nebo 'n'.");
+                    Console.ResetColor();
+                    choice = Console.ReadLine();
+                }
             }
         }
 
