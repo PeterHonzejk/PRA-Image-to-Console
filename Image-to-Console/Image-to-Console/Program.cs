@@ -12,7 +12,7 @@ namespace Image_to_Console
             while (!exitProgram)
             {
                 Console.ForegroundColor = ConsoleColor.Magenta;
-                Console.WriteLine("\nZadejte cestu k obrázku ve formátu .bmp:");
+                Console.WriteLine("\nZadejte cestu k obrázku ve formátu .bmp v 1-bitové hloubce barev:");
                 Console.ResetColor();
 
                 string filePath = Console.ReadLine();
